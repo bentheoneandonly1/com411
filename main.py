@@ -1,5 +1,3 @@
-x = 1
-y = 2
-while x<y:
-    print("Hi")
-    x+=1; y+=1
+# hi how are you
+print("HI HOW ARE YOU")
+print("Im good how are you")
