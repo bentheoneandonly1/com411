@@ -1,7 +1,2 @@
 # hi how are you
-print("\n Displays a new line")
-print("\t Displays a tab space")
-print("\\ Displays a back slash")
-print("\" Displays a double quote")
-print("\' Displays a single quote")
-print("\n\t\"I am programming!\"")
+print("##########\n#        #\n#        #\n##########")
