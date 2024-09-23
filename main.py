@@ -1,3 +1,2 @@
 # hi how are you
-print("HI HOW ARE YOU")
-print("Im good how are you")
+print("Welcome to COM411!\nIn week 1 we will learn...\n\n...How to use Git and GitHub\n...How to output to the screen\n...How to get user input\n\nI hope you are enjoying the lesson thus far!")
