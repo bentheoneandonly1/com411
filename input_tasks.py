@@ -1,4 +1,4 @@
-# hi how are you
+eye = input("What is your eye?")
 print("##########")
 print("# "+eye+"    "+eye+" #")
 print("# \____/ #")
